@@ -1,16 +1,13 @@
 # expense_tracker
 
 A new Flutter project.
+A Basic Expense Tracking App Made with Flutter
 
-## Getting Started
+When a user touches an input field, ensure that the keyboard opens gracefully and content is pushed up appropriately. You have also learned how to dynamically add extra padding to make sure all input fields are always accessible.
 
-This project is a starting point for a Flutter application.
+Furthermore, you have implemented the secure area concept to ensure that things like the device camera do not interfere with your user interface.
 
-A few resources to get you started if this is your first Flutter project:
+And of course, finally, we can select which platform we are working on, so we can run different code or show different widgets based on this platform information.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Ekran görüntüsü 2023-09-21 152433](https://github.com/KaradumanBahri/ExpenseTracker/assets/46449677/e5c01045-72af-4efc-b8e9-a8611694b551)
+![Ekran görüntüsü 2023-09-21 152417](https://github.com/KaradumanBahri/ExpenseTracker/assets/46449677/c5cbc9ff-a8ab-4add-8351-7473214c67fc)
