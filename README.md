@@ -1,6 +1,5 @@
 # expense_tracker
 
-A new Flutter project.
 A Basic Expense Tracking App Made with Flutter
 
 When a user touches an input field, ensure that the keyboard opens gracefully and content is pushed up appropriately. You have also learned how to dynamically add extra padding to make sure all input fields are always accessible.
